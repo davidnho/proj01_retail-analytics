@@ -17,4 +17,5 @@ save_to_db(df)
 
 print(all_data)
 print(top10)
+print("Summary")
 print(summary)
